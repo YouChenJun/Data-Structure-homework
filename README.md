@@ -12,7 +12,7 @@
 
 
 
-:o: :o: [学习笔记链接](https://xiaohuang.vip/)
+:o: :o: [学习笔记链接](http://www.xiaohuang.vip/index.php/category/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/)
 
 
 
