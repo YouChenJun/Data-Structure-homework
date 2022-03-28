@@ -16,7 +16,7 @@
 
 
 
-:o: :o: [学习笔记链接](https://blog.xiaohuang.vip/index.php/category/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/)
+:o: :o: [学习笔记链接](https://blog.xiaohuang.vip/index.php/archives/13/)
 
 
 
