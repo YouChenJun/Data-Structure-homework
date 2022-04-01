@@ -49,8 +49,10 @@
 
 ## 数据结构-第04周作业
 
-
+[点击我即可传达](https://github.com/YouChenJun/Data-Structure-homework/blob/main/%E7%AC%AC%E5%9B%9B%E5%91%A8%E4%B8%8A%E6%9C%BA/1.md)
 
 
 
 ## 数据结构-第05周作业
+
+[点击我传达](https://github.com/YouChenJun/Data-Structure-homework/blob/main/%E7%AC%AC%E4%BA%94%E5%91%A8%E4%B8%8A%E6%9C%BA/5.md)
