@@ -100,8 +100,8 @@ void main()
 {
 	
 	bitnode *t=NULL;
-	//t=creat();
-	create_sz(&t);
+	t=creat();
+	//create_sz(&t);
 	ccbl(t);
 	freetree(t);
 }
